@@ -69,7 +69,16 @@ img {
   height: auto;
   display: block;
 }
-
+.contact__inputt {
+  width: 30%;
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-semi);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1.5px solid var(--second-color);
+  outline: none;
+  margin-bottom: var(--mb-4);
+}
 /*===== CLASS CSS ===== */
 .section-title {
   position: relative;
